@@ -1,0 +1,9 @@
+dj-database-url
+dj-environ
+Django
+django-environ
+django-rest-framework
+djangorestframework
+psycopg2
+gunicorn
+django-gunicorn
